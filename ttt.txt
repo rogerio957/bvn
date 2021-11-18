@@ -1,0 +1,148 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",canal29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w769152853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",canal299
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w884431944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",Belhostempos
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1405323328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",Belhostemposs
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w381586492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",classiquetv
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1260943758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",classiquetvv
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w91203857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",classiquetvvv
+https://rr2---sn-apn7en7e.googlevideo.com/videoplayback?expire=1637265572&ei=JECWYc-6Bqa5mLAPiImUyAc&ip=2001:818:eb10:1800:91d:4278:324:dc43&id=2ef9e21c7f4d558c&itag=18&source=youtube&requiressl=yes&mh=Cm&mm=31&mn=sn-apn7en7e&ms=au&mv=m&mvi=2&pl=44&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=1289.450&lmt=1635443565245197&mt=1637236382&txp=1430434&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,ctier,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgC_IsTO59D7ICPWwskRSe1E92qpx9kgg5ADi0Qb0jWX0CIC-KaC2AHfuETKdYRH0G8YJTEsFUoiOVyDYTq2TxZKkd&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAPepIw2tcNucWTKhInVx7HFXLmq48QP-vFeVj1Fz4IvHAiAg6u5p4zGPWWrK6aUn8G5glZDVcQ57YkQbyCiwCjM2kA==&cpn=gaFl2ZZjmMUoBHcq
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxx TV CANAIS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",HBO2
+https://edge-aws.aovivotv.xyz/hls/s:116.203.108.80/hbo2_05a53e36_a4aaabde759b581397e5ac42646400dcef20e1fc/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTcyLjY4LjEwMi4xNTAiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk2LjAuNDY2NC40NSBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjM3MjM3MDcwO30%3D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",SYFY
+https://edge-aws.aovivotv.xyz/hls/s:168.119.51.140/syfy_097ccd4f_0772c3263a8853fe3acb9d7fbf0c07a3d2f1cf77/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTcyLjY4LjEwMi4xNTAiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk2LjAuNDY2NC40NSBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjM3MjM3MjQ1O30%3D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",Pipoca
+https://edge-aws.aovivotv.xyz/hls/s:116.203.108.80/telecinepipoca_fd937516_923e211c9aa1ce6321743cbaf36ee3fb9bf35077/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTcyLjY4LjEwMi4xOTQiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk2LjAuNDY2NC40NSBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjM3MjM3NDI1O30%3D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",camera
+https://r5---sn-apn7en7e.googlevideo.com/videoplayback?expire=1637259170&ei=QkOWYcXiMre6mLAPmcmG-AQ&ip=2001%3A818%3Aeb10%3A1800%3A91d%3A4278%3A324%3Adc43&id=B6-2uzUNQos.3&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=Kn&mm=44%2C29&mn=sn-apn7en7e%2Csn-apn7en7l&ms=lva%2Crdu&mv=m&mvi=5&pl=44&initcwndbps=1198750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=8YTEP6xIPo0kEZsw4WXk940G&gir=yes&mt=1637237316&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=2FeWBxblm6iv-w&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAKj_Q3XEzcxFuq5iO3TGNxafG0qhMYeM2a6Hojfxlf-QAiEAnzzNiHWdi10fas0FDTPc7UuahVINstofv2GEixyF8j0%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANE7-2bhAV581Rv7RBcJxQJF6G5lgPZbGVQ4xWsP1hF3AiAwgs4cOLEfZUedBSCJosbX53pt6YK23p-_9HZRrik4RA%3D%3D&alr=yes&cpn=KHEmOLeMn24R0Z-y&cver=1.20211116.01.00&sq=2092119&rn=3&rbuf=4895
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",camera2
+https://r5---sn-apn7en7e.googlevideo.com/videoplayback?expire=1637259170&ei=QkOWYcXiMre6mLAPmcmG-AQ&ip=2001%3A818%3Aeb10%3A1800%3A91d%3A4278%3A324%3Adc43&id=B6-2uzUNQos.3&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=Kn&mm=44%2C29&mn=sn-apn7en7e%2Csn-apn7en7l&ms=lva%2Crdu&mv=m&mvi=5&pl=44&initcwndbps=1198750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=8YTEP6xIPo0kEZsw4WXk940G&gir=yes&mt=1637237316&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=2FeWBxblm6iv-w&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAKj_Q3XEzcxFuq5iO3TGNxafG0qhMYeM2a6Hojfxlf-QAiEAnzzNiHWdi10fas0FDTPc7UuahVINstofv2GEixyF8j0%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANE7-2bhAV581Rv7RBcJxQJF6G5lgPZbGVQ4xWsP1hF3AiAwgs4cOLEfZUedBSCJosbX53pt6YK23p-_9HZRrik4RA%3D%3D&alr=yes&cpn=KHEmOLeMn24R0Z-y&cver=1.20211116.01.00&sq=2092120&rn=5&rbuf=9875
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",camera3
+https://r5---sn-apn7en7e.googlevideo.com/videoplayback?expire=1637259170&ei=QkOWYcXiMre6mLAPmcmG-AQ&ip=2001%3A818%3Aeb10%3A1800%3A91d%3A4278%3A324%3Adc43&id=B6-2uzUNQos.3&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=Kn&mm=44%2C29&mn=sn-apn7en7e%2Csn-apn7en7l&ms=lva%2Crdu&mv=m&mvi=5&pl=44&initcwndbps=1198750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=8YTEP6xIPo0kEZsw4WXk940G&gir=yes&mt=1637237316&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=2FeWBxblm6iv-w&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAKj_Q3XEzcxFuq5iO3TGNxafG0qhMYeM2a6Hojfxlf-QAiEAnzzNiHWdi10fas0FDTPc7UuahVINstofv2GEixyF8j0%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANE7-2bhAV581Rv7RBcJxQJF6G5lgPZbGVQ4xWsP1hF3AiAwgs4cOLEfZUedBSCJosbX53pt6YK23p-_9HZRrik4RA%3D%3D&alr=yes&cpn=KHEmOLeMn24R0Z-y&cver=1.20211116.01.00&sq=2092122&rn=9&rbuf=15157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",camera4
+https://live.monuv.com.br/a1/34767.stream/str13/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",camera5
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  WEBTV xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",filme
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",filme2
+https://raw.githubusercontent.com/telase/PRO/master/vids/flash.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",filme3
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto",filme4
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/256x144_230000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto"adulto
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto"adulto2
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto"adulto3
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto"adulto4
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto"adulto5
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto"belhos tempos
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w981283774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto"belhos temposs
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w514358572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto"belhos temposss
+https://stmv1.srvif.com/classique/classique/chunklist_w1198537519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto"classique
+https://stmv1.srvif.com/classique/classique/chunklist_w1668982481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto"classiquee
+https://rr2---sn-apn7en7l.googlevideo.com/videoplayback?expire=1637267997&ei=nUmWYfjkN8PW-gbNi7HAAw&ip=2001:818:eb10:1800:91d:4278:324:dc43&id=2ef9e21c7f4d558c&itag=18&source=youtube&requiressl=yes&mh=Cm&mm=31&mn=sn-apn7en7l&ms=au&mv=m&mvi=2&pl=44&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=1289.450&lmt=1635443565245197&mt=1637238786&txp=1430434&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,ctier,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAOuUxjBHEjw79JzXJJx9v5EwxCBrTHncryXanzXIg5-HAiBsiA1z4oPCpPokISG9ShWiuvyWazl0qppvxkm7cSQiZw==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAPNCzt8yCWxMbb3QQS65Buj0EKSfK546Dr5LWUnTThl1AiEAstCf90tdSST-MMPQb3ATS6WrQ0JlzLeSD8mO0BWtLh0=&cpn=UBB5mlp4nV20p2wH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto"classiqueee
+https://tpc.googlesyndication.com/simgad/1215151678365964964
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xvideo  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto:adulto23
+https://hls-hw.xvideos-cdn.com/videos/hls/0e/6b/6a/0e6b6a63312af78157c5292cee054c40/hls-360p.m3u8?e=1637250337&l=0&h=b7f148b2694d2cd3c6d0a8027a86705a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto:adulto24
+https://static-l3.xvideos-cdn.com/v3/img/skins/common/blank.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto:adulto25
+https://cdn77-vid.xvideos-cdn.com/DfJfbcbRHjAqIFECusv_eQ==,1637250448/videos/hls/43/73/66/437366a3d8e3f1005075e2e464c623ba-2/hls-1080p-95009.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto:adulto26
+https://cdn77-vid.xvideos-cdn.com/DfJfbcbRHjAqIFECusv_eQ==,1637250448/videos/hls/43/73/66/437366a3d8e3f1005075e2e464c623ba-2/hls-720p-dcd95.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto:camera23
+https://frn.rtsp.me/OL57BpNDVfTOUkhMVo-KnQ/1637330563/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto:camera24
+https://r1---sn-apn7en7e.googlevideo.com/videoplayback?expire=1637261455&ei=L0yWYe7WAZO_xN8P2NaemA0&ip=2001%3A818%3Aeb10%3A1800%3A91d%3A4278%3A324%3Adc43&id=PwDp7T0T5Kk.1&itag=244&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=vO&mm=44%2C26&mn=sn-apn7en7e%2Csn-h5q7knee&ms=lva%2Conr&mv=m&mvi=1&pl=44&initcwndbps=1486250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=mptvsljRVmfQg6tChf0nPnUG&gir=yes&mt=1637239474&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=IWG0SWKtRDT2eg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAKyZG0pL5oJ9NvnRrWVl0wuOkHK3C1ev6fTyWHSAM3dqAiBQWJ4A9z6ZYBvDvc65LoYvYq9aTij4BCzrCKoQuNcrBA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgLXSSXq2HDVDAIGxh60chuDnW7DjZGphwhtYAsVlW0voCIEq0PgANE06_iDrkE2WneIM9NTrc6jXkXMvkysQ5P1GM&alr=yes&cpn=p24cE4znUVHMn1PS&cver=1.20211116.01.00&sq=37301&rn=3&rbuf=4894
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" Brasil"" tvg-logo="" group-title="Auto:camera27
+https://r1---sn-apn7en7e.googlevideo.com/videoplayback?expire=1637261455&ei=L0yWYe7WAZO_xN8P2NaemA0&ip=2001%3A818%3Aeb10%3A1800%3A91d%3A4278%3A324%3Adc43&id=PwDp7T0T5Kk.1&itag=244&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=vO&mm=44%2C26&mn=sn-apn7en7e%2Csn-h5q7knee&ms=lva%2Conr&mv=m&mvi=1&pl=44&initcwndbps=1486250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=mptvsljRVmfQg6tChf0nPnUG&gir=yes&mt=1637239474&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=IWG0SWKtRDT2eg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAKyZG0pL5oJ9NvnRrWVl0wuOkHK3C1ev6fTyWHSAM3dqAiBQWJ4A9z6ZYBvDvc65LoYvYq9aTij4BCzrCKoQuNcrBA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgLXSSXq2HDVDAIGxh60chuDnW7DjZGphwhtYAsVlW0voCIEq0PgANE06_iDrkE2WneIM9NTrc6jXkXMvkysQ5P1GM&alr=yes&cpn=p24cE4znUVHMn1PS&cver=1.20211116.01.00&sq=37302&rn=6&rbuf=9894
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
